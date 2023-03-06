@@ -1,0 +1,83 @@
+@font-face {
+  font-family: "vanquyen";
+  src: url("../fonts/vanquyen-icon/vanquyen.eot?w6ww4d");
+  src: url("../fonts/vanquyen-icon/vanquyen.eot?w6ww4d#iefix")
+      format("embedded-opentype"),
+    url("../fonts/vanquyen-icon/vanquyen.ttf?w6ww4d") format("truetype"),
+    url("../fonts/vanquyen-icon/vanquyen.woff?w6ww4d") format("woff"),
+    url("../fonts/vanquyen-icon/vanquyen.svg?w6ww4d#vanquyen") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="vq-icon-"],
+[class*=" vq-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "vanquyen" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.vq-icon-maps-and-flags:before {
+  content: "\e924";
+}
+.vq-icon-close1:before {
+  content: "\e925";
+}
+.vq-icon-mail:before {
+  content: "\e928";
+}
+.vq-icon-search:before {
+  content: "\e952";
+}
+.vq-icon-phone1:before {
+  content: "\e942";
+}
+.vq-icon-bubbles4:before {
+  content: "\e970";
+}
+.vq-icon-spinner6:before {
+  content: "\e97f";
+}
+.vq-icon-spinner10:before {
+  content: "\e983";
+}
+.vq-icon-heart:before {
+  content: "\e9da";
+}
+.vq-icon-cross:before {
+  content: "\ea0f";
+}
+.vq-icon-arrow-up2:before {
+  content: "\ea3a";
+}
+.vq-icon-arrow-right2:before {
+  content: "\ea3c";
+}
+.vq-icon-arrow-down2:before {
+  content: "\ea3e";
+}
+.vq-icon-arrow-left2:before {
+  content: "\ea40";
+}
+.vq-icon-paragraph-left:before {
+  content: "\ea77";
+}
+.vq-icon-facebook:before {
+  content: "\ea90";
+}
+.vq-icon-instagram:before {
+  content: "\ea92";
+}
+.vq-icon-twitter:before {
+  content: "\ea96";
+}
